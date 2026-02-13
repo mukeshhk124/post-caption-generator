@@ -1,2 +1,11 @@
-# post-caption-generator
-Creates engaging, scroll-stopping social media captions tailored to your platform, tone, and audience. Perfect for Instagram, LinkedIn, Twitter, and more, Generates creative, engaging captions with emojis and hashtags for any social media platform.
+# Privacy Policy
+
+This GPT does not collect, store, or share any personal data.
+
+All user inputs are processed within the ChatGPT platform and are not retained or used outside this environment.
+
+This GPT does not use third-party APIs, external databases, or data storage systems.
+
+No personal information is requested or transmitted externally.
+
+If future integrations are added, this policy will be updated accordingly.
